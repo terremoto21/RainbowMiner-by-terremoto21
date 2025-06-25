@@ -9,7 +9,7 @@
 ###### **[Discord:](https://discord.gg/znzQpJWWQH)**
 [![online](https://img.shields.io/discord/513274071010508800)](https://discord.gg/znzQpJWWQH)
 
-UPDATE RELEASE (23/06/2025)
+UPDATE RELEASE (26/06/2025)
 Password archive: terremoto21
 
 ## INTRODUCTION
